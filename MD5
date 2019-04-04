@@ -1,0 +1,11 @@
+530348857aa52ee163e2defe3808b1fd *DESCRIPTION
+1e8e944ae5382f8b4c3a0a0fff8e9fec *NAMESPACE
+d152244312317ab346fc4e59a16f857f *R/data.R
+6b4ff672cbc7081cf413a943f8083ce5 *R/hydra.R
+693f8c2214ad3c7dd056075936fd33a9 *R/hydraPlus.R
+7693c360b2d17d370ddb6e7ac67138ad *R/plot.hydra.R
+465ea1b3744b7b74a09de194a7b0ea2b *data/karate.RData
+3bd5cae73dde4b4e787a4eeddd61de79 *man/hydra.Rd
+b3c758100088f699a0e1fb14ccb2d6e6 *man/hydraPlus.Rd
+be7fb82c91a44617a30b3c8bd0f30968 *man/karate.Rd
+8e396263533d085680e1afb95bed660c *man/plot.hydra.Rd
